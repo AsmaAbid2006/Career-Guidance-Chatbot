@@ -10,3 +10,7 @@ For this file, you need to install streamlit using pip and then you have to run 
 We are using streamlit because we have to make an interface for our chatbot so streamlit opens a localhost in our web.
 Note: I made app.py file a python file because streamlit only runs in python files not in jupyter files.
 So, you can turn train_model.ipynb into a python file according to your own ease.
+This project needs a datset which you can download from the following link
+https://huggingface.co/datasets/Pradeep016/career-guidance-qa-dataset?utm_source=chatgpt.com
+Download this link and save it in your project folder.
+Every step in the code is well explained in the form of coments.
